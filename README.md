@@ -10,7 +10,7 @@ The data was retrieved from the Microsof Planetary Computer data catalogue and p
 
 The second dataset is historical open-access data about fire perimeters in California. There are several datasets with this information online. The dataset that I found is open source from data.gov. See link in citations.
 
-I accessed all these data on November 15th, 2024. 
+I accessed all these data on November 15th, 2024. See citations section for direct links to these data sites. 
 
 ## Repository Structure
 
