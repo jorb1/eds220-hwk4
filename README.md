@@ -6,9 +6,11 @@ This repository contains a Jupyter Notebook of my analysis and visualization of 
 ## Data
 The first is a simplified collection of bands (red, green, blue, near-infrared and shortwave infrared) from the Landsat Collection 2 Level-2 atmosperically corrected surface reflectance data, collected by the Landsat 8 satellite.
 
-The data was retrieved from the Microsof Planetary Computer data catalogue and pre-processed to remove data outside land and coarsen the spatial resolution. This data should be used for visualization and educational purposes only.
+The data was retrieved from the Microsof Planetary Computer data catalogue and pre-processed to remove data outside land and coarsen the spatial resolution. This initial processing of data was done by Galaz-Garcia (see citations). This data should be used for visualization and educational purposes only.
 
-The second dataset will be historical open-access data about fire perimeters in California. There are several datasets with this information online. The dataset that I found is from data.gov. See link in citations.
+The second dataset is historical open-access data about fire perimeters in California. There are several datasets with this information online. The dataset that I found is open source from data.gov. See link in citations.
+
+I accessed all these data on November 15th, 2024. 
 
 ## Repository Structure
 
