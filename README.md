@@ -14,34 +14,22 @@ I accessed all these data on November 15th, 2024.
 
 ## Repository Structure
 
-eds220-hwk4
-
-│   README.md
-
-|   hwk4-task2-fire-perimeter-JORGENSEN.ipynb
-
-│   hwk4-task2-false-color-JORGENSEN.ipynb
-
-|   .gitignore
-
-│
-└───data
-
-    │   California_Fire_Perimeters_(all).cpg
-    
-    │   California_Fire_Perimeters_(all).dbf
-    
-    │   California_Fire_Perimeters_(all).prj
-    
-    │   California_Fire_Perimeters_(all).shp
-    
-    │   California_Fire_Perimeters_(all).sshp.xml
-    
-    │   California_Fire_Perimeters_(all).shx
-    
-    │   landsat8-2018-01-26-sb-simplifieds.nc
-    
-    │   thomas.geojson
+```bash
+├── eds220-hwk4
+│   ├── README.md
+│   ├── hwk4-task2-fire-perimeter-JORGENSEN.ipynb
+│   ├── hwk4-task2-false-color-JORGENSEN.ipynb
+│   └── .gitignore
+├── data
+│   ├── California_Fire_Perimeters_(all).cpg
+│   ├── California_Fire_Perimeters_(all).dbf
+│   ├── California_Fire_Perimeters_(all).prj
+│   ├── California_Fire_Perimeters_(all).shp
+│   ├── California_Fire_Perimeters_(all).sshp.xml
+│   ├── California_Fire_Perimeters_(all).shx
+│   ├── landsat8-2018-01-26-sb-simplifieds.nc
+│   └── thomas.geojson
+```
 
 ## Citations:
 
